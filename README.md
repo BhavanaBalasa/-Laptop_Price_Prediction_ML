@@ -37,13 +37,18 @@
  ### Filter Methods
       -- Evaluate the relationship between each feature and the target variable independently.
       -- Select features with a high correlation to the target but low correlation feature are removed.
-## Modeling
+## Model Development
+
+ ![](https://github.com/BhavanaBalasa/-Laptop_Price_Prediction_ML/blob/main/DataSplit.png)
+ 
   -- Employed machine learning algorithms such as Linear Regression, Random Forest, and Gradient Boosting to predict laptop prices.
   -- Evaluated and choosed the model that aligns best with the project's objectives.
- ![]()
+
+ ![](https://github.com/BhavanaBalasa/-Laptop_Price_Prediction_ML/blob/main/Models.png)
 ## Hyperparameter Tuning:
    Fine-tune the selected model to achieve optimal performance.
-   ![]()
+   
+   ![](https://github.com/BhavanaBalasa/-Laptop_Price_Prediction_ML/blob/main/HPT.png)
 ## Deployment
    -- After building a machine learning (ML) model, the next step is to deploy and integrate it into real-world data to make it useful in practical applications.
 
@@ -51,7 +56,10 @@
 
   -- Joblib is a Python library used primarily for saving (serializing) and loading (deserializing) machine learning models 
 ## Real Example
-![]()
+###  Mean Absolute Error (MAE): 0.03
+
+![](https://github.com/BhavanaBalasa/-Laptop_Price_Prediction_ML/blob/main/Amazon.png)
+
 ## Conclusion
    -- Company, typename, Ram, Price, PPI, cpu_brand, SSD, and Gpu_Brand are features that have the most significant impact on laptop prices.
    -- Predicting laptop prices for lesser-known brands can be challenging for an ML model with a lack of Training Data for Lesser-known brands.
