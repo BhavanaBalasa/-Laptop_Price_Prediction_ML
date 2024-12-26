@@ -39,7 +39,7 @@
       -- Select features with a high correlation to the target but low correlation feature are removed.
 ## Model Development
 
- ![](https://github.com/BhavanaBalasa/-Laptop_Price_Prediction_ML/blob/main/DataSplit.png)
+ ![](https://github.com/BhavanaBalasa/-Laptop_Price_Prediction_ML/blob/main/DataSplitting.png)
  
   -- Employed machine learning algorithms such as Linear Regression, Random Forest, and Gradient Boosting to predict laptop prices.
   -- Evaluated and choosed the model that aligns best with the project's objectives.
